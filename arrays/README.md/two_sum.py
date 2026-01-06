@@ -1,4 +1,4 @@
-# Leetcode : Two sum 
+# Leetcode - Two sum 
 def twoSum (num,target):
   hashmap ={}
   for i , num in 
